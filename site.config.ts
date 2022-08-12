@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '刘荣君标本记录',
-  domain: '标本',
+  domain: 'https://liurongjun.notion.site/2261b6de96814a96803bfa7e7ffda3d3',
   author: '刘荣君',
 
   // open graph metadata (optional)
